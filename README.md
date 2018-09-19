@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/malbasi/d3-lines.svg?branch=master)](https://travis-ci.org/malbasi/d3-lines)
+
 # Drawing some lines with D3 
 
 ## Installation Instructions
